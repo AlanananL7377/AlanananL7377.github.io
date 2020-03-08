@@ -20,7 +20,7 @@ img{
     /*float:right;*/
     vertical-align:top;
 
-    
+
 }
 a {
     color: #2e72a1;
@@ -54,6 +54,21 @@ a {
     color: #ffffff;
 }
 
+.copycat-project{
+    color:black;
+    font-size:25px;
+    background:rgba(255,255,255,0.4);
+    width:300px;
+    height:200px;
+    text-align:center;
+}
+
+#discription{
+    font-size:16px;
+    text-align:center;
+    padding-right:5.5px;
+    padding-left:5.5px;
+}
 .card {
     color: black;
     text-align: left;
