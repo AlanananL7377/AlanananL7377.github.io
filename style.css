@@ -10,8 +10,18 @@ body {
 
 p {
     font-size: 16px;
+    max-width:33vw;
+    float:right;
 }
 
+img{
+    display:inline;
+    max-width:40vw;
+    /*float:right;*/
+    vertical-align:top;
+
+    
+}
 a {
     color: #2e72a1;
 }
