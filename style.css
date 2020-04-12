@@ -54,37 +54,39 @@ a {
     color: #ffffff;
 }
 
-.copycat-project{
-    color:black;
-    font-size:30px;
-    background:rgba(255,255,255,0.4);
+/*.copycat-project{*/
+/*    color:black;*/
+/*    font-size:30px;*/
+/*    background:rgba(255,255,255,0.4);*/
 
-    width:300px;
-    height:200px;
+/*    width:300px;*/
+/*    height:200px;*/
 
-    text-align:center;
-    padding-top:5px;
-}
+/*    text-align:center;*/
+/*    padding-top:5px;*/
+/*}*/
 
-.shabr{
-    color:black;
-    font-size:30px;
-    background:rgba(255,255,255,0.4);
+/*.shabr{*/
+/*    color:black;*/
+/*    font-size:30px;*/
+/*    background:rgba(255,255,255,0.4);*/
 
-    width:300px;
-    height:200px;
+/*    width:300px;*/
+/*    height:200px;*/
 
-    text-align:center;
-    padding-top:5px;
+/*    text-align:center;*/
+/*    padding-top:5px;*/
 
-    margin-left:500px;
-}
+/*    margin-left:500px;*/
+/*}*/
 
 #discription{
     font-size:16px;
     text-align:center;
     padding-right:5.5px;
     padding-left:5.5px;
+    
+    /*background-color:255,255,255,0.3;!important*/
 }
 
 #portfolio-link{
